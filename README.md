@@ -1,5 +1,4 @@
 #**Lots of new stuff happening in the [2.0 branch](https://github.com/greypants/gulp-starter/tree/2.0)**
-2.0 could use a better README, and will be merged as soon as it gets one... but it's way better, and you can and should use it now. 
 
 **Use Rails?** Check out http://viget.com/extend/gulp-rails-asset-pipeline and https://github.com/vigetlabs/gulp-rails-pipeline
 
@@ -90,7 +89,7 @@ The task calls `gulp-iconfont` and passes the options we've configured in [`gulp
   +icon--twitter // (@include in .scss syntax)
 ```
 
-or 
+or
 
 ```html
 <span class="icon -twitter"></span>
@@ -98,7 +97,7 @@ or
 
 #### Production files
 
-There is also a `production` task you can run: 
+There is also a `production` task you can run:
 ```
 gulp production
 ```
@@ -115,7 +114,7 @@ To run the tests and start monitoring files:
 Want to just run `karma start`? Either add `alias karma="./node_modules/karma/bin/karma"` to your shell config or install the karma command line interface globally with `npm install -g karma-cli`.
 
 
--- 
+--
 
 Social icons courtesy of [icomoon.io](https://icomoon.io/#icons-icomoon)</small>
 
